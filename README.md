@@ -1,17 +1,28 @@
 MF-RC522
 ==============
+## INTALLATION ##
 
+Pour commencer récuperer la totalité du dépôt :
 
-////// PINS //////////////////
+git clone https://github.com/kkiwill/Arietta_MF-RC522
 
-| Name | Pin # | Pin name   |
-|------|-------|------------|
-| SDA  | 24    | GPIO8      |
-| SCK  | 23    | GPIO11     |
-| MOSI | 19    | GPIO10     |
-| MISO | 21    | GPIO9      |
-| IRQ  | None  | None       |
-| GND  | Any   | Any Ground |
-| RST  | 22    | GPIO25     |
-| 3.3V | 1     | 3V3        |
+Installation de la librairie SPI :
+
+cd ./SPI
+python setup install
+
+Pour l'utilisation des examples, il faut utiliser la librairie MFRC522.py.
+
+## PINS ##
+ ______________
+| Name | Pin # |
+|------|-------|
+| SDA  | 25    |
+| SCK  | 7     |
+| MOSI | 8     |
+| MISO | 10    |
+| IRQ  | None  |
+| GND  | 9     |
+| RST  | 40    |
+| 3.3V | 5     |
 
