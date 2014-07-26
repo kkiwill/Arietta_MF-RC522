@@ -25,4 +25,7 @@ Pour l'utilisation des examples, il faut utiliser la librairie MFRC522.py.
 | GND  | 9     |
 | RST  | 40    |
 | 3.3V | 5     |
+|______|_______|
 
+## Blog ##
+http://www.kiwil-dev.fr
