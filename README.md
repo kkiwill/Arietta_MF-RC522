@@ -8,7 +8,7 @@ git clone https://github.com/kkiwill/Arietta_MF-RC522
 
 Installation de la librairie SPI :
 
-cd ./SPI
+cd ./SPI_Librairie
 python setup install
 
 Pour l'utilisation des examples, il faut utiliser la librairie MFRC522.py.
