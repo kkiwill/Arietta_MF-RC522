@@ -15,7 +15,7 @@ Pour l'utilisation des examples, il faut utiliser la librairie MFRC522.py.
 
 ## PINS ##
  ______________
-| Name | Pin # |
+| Name | Pin n°|
 |------|-------|
 | SDA  | 25    |
 | SCK  | 7     |
