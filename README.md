@@ -1,6 +1,6 @@
 MF-RC522
 ==============
-## INTALLATION ##
+## Installation ##
 
 Pour commencer récuperer la totalité du dépôt :
 
@@ -13,7 +13,7 @@ python setup install
 
 Pour l'utilisation des examples, il faut utiliser la librairie MFRC522.py.
 
-## PINS ##
+## Pins ##
  ______________
 | Name | Pin n°|
 |------|-------|
